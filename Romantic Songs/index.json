@@ -95,6 +95,18 @@
           "Arijit Singh"
        ],
        "link":"https://youtu.be/MJyKN-8UncM"
-    }
+    }, 
+     {
+       "id":9,
+       "name":"Tu hai ki nhi",
+       "lyrics":"https://www.lyricsmint.com/roy/tu-hai-ki-nahi.html",
+       "album":"Tu hai ki nhi",
+       "Duration":"4 min 19 sec",
+       "singer":[
+          "Ankit Tiwari"
+       ],
+       "link":"https://www.youtube.com/watch?v=61floBUAiTY"
+    }, 
+
     
 ]   
